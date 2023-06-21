@@ -1,4 +1,4 @@
-<svg class="boeing737" viewBox="0 0 800 300" version="1.1" xmlns="http://www.w3.org/2000/svg"
+<svg class="boeing737" viewBox="0 0 800 223" version="1.1" xmlns="http://www.w3.org/2000/svg"
 xmlns:xlink="http://www.w3.org/1999/xlink">
 <title>737-700</title>
 <desc>Boeing 737-700</desc>
@@ -7,7 +7,7 @@ xmlns:xlink="http://www.w3.org/1999/xlink">
   <polygon id="path-3" points="0 0 63.2112676 0 63.2112676 315.405983 0 315.405983"></polygon>
   <polygon id="path-5" points="0 0 63.2112676 0 63.2112676 315.405983 0 315.405983"></polygon>
 </defs>
-<g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+<g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(0, 5)">
   <g id="700" transform="translate(-190.000000, -880.000000)">
     <g id="737-700" transform="translate(190.000000, 880.000000)">
       <rect id="Rectangle"></rect>
@@ -342,40 +342,40 @@ xmlns:xlink="http://www.w3.org/1999/xlink">
       </g>
       <g id="Seats" transform="translate(206.000000, 34.000000)">
         <g id="first" transform="translate(0.000000, 22.068376)" >
-          <g className="first_A1"  mask="url(#mask-2)" fill="#00416B"  transform="translate(0.309859, 81.485043)">
+          <g class="first_A1"  mask="url(#mask-2)" fill="#00416B"  transform="translate(0.309859, 81.485043)">
             <rect id="Rectangle-1-Copy-2" x="0" y="0" width="19" height="19" rx="4"></rect>
           </g>
-          <g className="first_D1"  mask="url(#mask-2)" fill="#00416B"  transform="translate(0.309859, 21.378205)">
+          <g class="first_D1"  mask="url(#mask-2)" fill="#00416B"  transform="translate(0.309859, 21.378205)">
             <rect id="Rectangle-1-Copy-2" x="0" y="0" width="19" height="19" rx="4"></rect>
           </g>
-          <g className="first_A2"  mask="url(#mask-2)" fill="#00416B"  transform="translate(21.380282, 81.485043)">
+          <g class="first_A2"  mask="url(#mask-2)" fill="#00416B"  transform="translate(21.380282, 81.485043)">
             <rect id="Rectangle-1-Copy-2" x="0" y="0" width="19" height="19" rx="4"></rect>
           </g>
-          <g className="first_D2"  mask="url(#mask-2)" fill="#00416B"  transform="translate(21.380282, 21.378205)">
+          <g class="first_D2"  mask="url(#mask-2)" fill="#00416B"  transform="translate(21.380282, 21.378205)">
             <rect id="Rectangle-1-Copy-2" x="0" y="0" width="19" height="19" rx="4"></rect>
           </g>
-          <g className="first_C1"  mask="url(#mask-2)" fill="#00416B"  transform="translate(0.309859, 60.416667)">
+          <g class="first_C1"  mask="url(#mask-2)" fill="#00416B"  transform="translate(0.309859, 60.416667)">
             <rect id="Rectangle-1-Copy-2" x="0" y="0" width="19" height="19" rx="4"></rect>
           </g>
-          <g className="first_F1"  mask="url(#mask-2)" fill="#00416B"  transform="translate(0.309859, 0.309829)">
+          <g class="first_F1"  mask="url(#mask-2)" fill="#00416B"  transform="translate(0.309859, 0.309829)">
             <rect id="Rectangle-1-Copy-2" x="0" y="0" width="19" height="19" rx="4"></rect>
           </g>
-          <g className="first_C2"  mask="url(#mask-2)" fill="#00416B"  transform="translate(21.380282, 60.416667)">
+          <g class="first_C2"  mask="url(#mask-2)" fill="#00416B"  transform="translate(21.380282, 60.416667)">
             <rect id="Rectangle-1-Copy-2" x="0" y="0" width="19" height="19" rx="4"></rect>
           </g>
-          <g className="first_F2"  mask="url(#mask-2)" fill="#00416B"  transform="translate(21.380282, 0.309829)">
+          <g class="first_F2"  mask="url(#mask-2)" fill="#00416B"  transform="translate(21.380282, 0.309829)">
             <rect id="Rectangle-1-Copy-2" x="0" y="0" width="19" height="19" rx="4"></rect>
           </g>
-          <g className="first_A3"  mask="url(#mask-2)" fill="#00416B"  transform="translate(42.450704, 81.485043)">
+          <g class="first_A3"  mask="url(#mask-2)" fill="#00416B"  transform="translate(42.450704, 81.485043)">
             <rect id="Rectangle-1-Copy-2" x="0" y="0" width="19" height="19" rx="4"></rect>
           </g>
-          <g className="first_D3"  mask="url(#mask-2)" fill="#00416B"  transform="translate(42.450704, 21.378205)">
+          <g class="first_D3"  mask="url(#mask-2)" fill="#00416B"  transform="translate(42.450704, 21.378205)">
             <rect id="Rectangle-1-Copy-2" x="0" y="0" width="19" height="19" rx="4"></rect>
           </g>
-          <g className="first_C3"  mask="url(#mask-2)" fill="#00416B"  transform="translate(42.450704, 60.416667)">
+          <g class="first_C3"  mask="url(#mask-2)" fill="#00416B"  transform="translate(42.450704, 60.416667)">
             <rect id="Rectangle-1-Copy-2" x="0" y="0" width="19" height="19" rx="4"></rect>
           </g>
-          <g className="first_F3"  mask="url(#mask-2)" fill="#00416B"  transform="translate(42.450704, 0.309829)">
+          <g class="first_F3"  mask="url(#mask-2)" fill="#00416B"  transform="translate(42.450704, 0.309829)">
             <rect id="Rectangle-1-Copy-2" x="0" y="0" width="19" height="19" rx="4"></rect>
           </g>
         </g>
@@ -393,143 +393,143 @@ xmlns:xlink="http://www.w3.org/1999/xlink">
             <circle cx="9.5" cy="9.5" r="7" style="stroke:none; fill: #ffffff"/>
           </mask>
           <g id="Duplicate-control"></g>
-          <g className="main_F28"  mask="url(#mask-2)" fill="#43A9C7"   >
+          <g class="main_F28"  mask="url(#mask-2)" fill="#43A9C7"   >
             <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
             
           </g>
-          <g className="main_D10"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(42.140845, 294.957265)"   >
+          <g class="main_D10"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(42.140845, 294.957265)"   >
               <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
           </g>
-          <g className="main_E10"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(21.070423, 294.957265)"   >
+          <g class="main_E10"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(21.070423, 294.957265)"   >
               <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
           </g>
-          <g className="main_F10"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(0.000000, 294.957265)"   >
+          <g class="main_F10"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(0.000000, 294.957265)"   >
               <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
           </g>
-          <g className="main_D15"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(42.140845, 273.888889)"   >
+          <g class="main_D15"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(42.140845, 273.888889)"   >
               <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
           </g>
-          <g className="main_D16"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(42.140845, 252.820513)"   >
+          <g class="main_D16"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(42.140845, 252.820513)"   >
               <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
           </g>
-          <g className="main_D17"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(42.140845, 231.752137)"   >
+          <g class="main_D17"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(42.140845, 231.752137)"   >
               <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
           </g>
-          <g className="main_D18"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(42.140845, 210.683761)"   >
+          <g class="main_D18"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(42.140845, 210.683761)"   >
               <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
           </g>
-          <g className="main_D19"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(42.140845, 189.615385)"   >
+          <g class="main_D19"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(42.140845, 189.615385)"   >
               <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
           </g>
-          <g className="main_D20"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(42.140845, 168.547009)"   >
+          <g class="main_D20"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(42.140845, 168.547009)"   >
               <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
           </g>
-          <g className="main_D21"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(42.140845, 147.478632)"   >
+          <g class="main_D21"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(42.140845, 147.478632)"   >
               <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
           </g>
-          <g className="main_D22"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(42.140845, 126.410256)"   >
+          <g class="main_D22"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(42.140845, 126.410256)"   >
               <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
           </g>
-          <g className="main_D23"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(42.140845, 105.341880)"   >
+          <g class="main_D23"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(42.140845, 105.341880)"   >
               <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
           </g>
-          <g className="main_D24"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(42.140845, 84.273504)"   >
+          <g class="main_D24"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(42.140845, 84.273504)"   >
               <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
           </g>
-          <g className="main_D25"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(42.140845, 63.205128)"   >
+          <g class="main_D25"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(42.140845, 63.205128)"   >
               <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
           </g>
-          <g className="main_D26"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(42.140845, 42.136752)"   >
+          <g class="main_D26"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(42.140845, 42.136752)"   >
               <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
           </g>
-          <g className="main_D27"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(42.140845, 21.068376)"   >
+          <g class="main_D27"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(42.140845, 21.068376)"   >
               <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
           </g>
-          <g className="main_D28"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(42.140845, 0.000000)"   >
+          <g class="main_D28"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(42.140845, 0.000000)"   >
               <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
           </g>
-          <g className="main_E15"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(21.070423, 273.888889)"   >
+          <g class="main_E15"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(21.070423, 273.888889)"   >
               <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
           </g>
-          <g className="main_E16"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(21.070423, 252.820513)"   >
+          <g class="main_E16"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(21.070423, 252.820513)"   >
               <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
           </g>
-          <g className="main_E17"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(21.070423, 231.752137)"   >
+          <g class="main_E17"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(21.070423, 231.752137)"   >
               <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
           </g>
-          <g className="main_E18"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(21.070423, 210.683761)"   >
+          <g class="main_E18"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(21.070423, 210.683761)"   >
               <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
           </g>
-          <g className="main_E19"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(21.070423, 189.615385)"   >
+          <g class="main_E19"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(21.070423, 189.615385)"   >
               <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
           </g>
-          <g className="main_E20"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(21.070423, 168.547009)"   >
+          <g class="main_E20"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(21.070423, 168.547009)"   >
               <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
           </g>
-          <g className="main_E21"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(21.070423, 147.478632)"   >
+          <g class="main_E21"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(21.070423, 147.478632)"   >
               <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
           </g>
-          <g className="main_E22"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(21.070423, 126.410256)"   >
+          <g class="main_E22"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(21.070423, 126.410256)"   >
               <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
           </g>
-          <g className="main_E23"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(21.070423, 105.341880)"   >
+          <g class="main_E23"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(21.070423, 105.341880)"   >
               <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
           </g>
-          <g className="main_E24"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(21.070423, 84.273504)"   >
+          <g class="main_E24"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(21.070423, 84.273504)"   >
               <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
           </g>
-          <g className="main_E25"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(21.070423, 63.205128)"   >
+          <g class="main_E25"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(21.070423, 63.205128)"   >
               <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
           </g>
-          <g className="main_E26"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(21.070423, 42.136752)"   >
+          <g class="main_E26"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(21.070423, 42.136752)"   >
               <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
           </g>
-          <g className="main_E27"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(21.070423, 21.068376)"   >
+          <g class="main_E27"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(21.070423, 21.068376)"   >
               <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
           </g>
-          <g className="main_E28"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(21.070423, 0.000000)"   >
+          <g class="main_E28"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(21.070423, 0.000000)"   >
               <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
           </g>
-          <g className="main_F15"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(0.000000, 273.888889)"   >
+          <g class="main_F15"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(0.000000, 273.888889)"   >
               <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
           </g>
-          <!-- <g className="main_D15"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(42.140845, 273.888889)"   >
+          <!-- <g class="main_D15"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(42.140845, 273.888889)"   >
               <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
           </g>
-          <g className="main_E15"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(21.070423, 273.888889)"   >
+          <g class="main_E15"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(21.070423, 273.888889)"   >
               <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
           </g> -->
-          <g className="main_F17"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(0.000000, 231.752137)"   >
+          <g class="main_F17"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(0.000000, 231.752137)"   >
               <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
           </g>
-          <g className="main_F18"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(0.000000, 210.683761)"   >
+          <g class="main_F18"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(0.000000, 210.683761)"   >
               <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
           </g>
-          <g className="main_F19"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(0.000000, 189.615385)"   >
+          <g class="main_F19"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(0.000000, 189.615385)"   >
               <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
           </g>
-          <g className="main_F20"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(0.000000, 168.547009)"   >
+          <g class="main_F20"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(0.000000, 168.547009)"   >
               <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
           </g>
-          <g className="main_F21"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(0.000000, 147.478632)"   >
+          <g class="main_F21"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(0.000000, 147.478632)"   >
               <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
           </g>
-          <g className="main_F22"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(0.000000, 126.410256)"   >
+          <g class="main_F22"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(0.000000, 126.410256)"   >
               <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
           </g>
-          <g className="main_F23"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(0.000000, 105.341880)"   >
+          <g class="main_F23"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(0.000000, 105.341880)"   >
               <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
           </g>
-          <g className="main_F24"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(0.000000, 84.273504)"   >
+          <g class="main_F24"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(0.000000, 84.273504)"   >
               <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
           </g>
-          <g className="main_F25"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(0.000000, 63.205128)"   >
+          <g class="main_F25"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(0.000000, 63.205128)"   >
               <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
           </g>
-          <g className="main_F26"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(0.000000, 42.136752)"   >
+          <g class="main_F26"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(0.000000, 42.136752)"   >
               <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
           </g>
-          <g className="main_F27"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(0.000000, 21.068376)"   >
+          <g class="main_F27"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(0.000000, 21.068376)"   >
               <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
           </g>
         </g>
@@ -540,16 +540,16 @@ xmlns:xlink="http://www.w3.org/1999/xlink">
           </mask>
           <g id="Duplicate-control"></g>
           <g>
-              <g className="main_E9"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(21.070423, 231.752137)"   >
+              <g class="main_E9"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(21.070423, 231.752137)"   >
                       <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
                   </g>
-              <g className="main_F9"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(0.000000, 231.752137)"   >
+              <g class="main_F9"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(0.000000, 231.752137)"   >
                           <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
                   </g>
-              <g className="main_D9"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(42.140845, 231.752137)"   >
+              <g class="main_D9"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(42.140845, 231.752137)"   >
                           <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
                   </g>
-            <g className="premium_D8"  mask="url(#mask-2)" fill="#00416B"  
+            <g class="premium_D8"  mask="url(#mask-2)" fill="#00416B"  
               transform="translate(51.436620, 262.115385) rotate(-180.000000) translate(-51.436620, -262.115385) translate(42.140845, 252.820513)">
               <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
               <path
@@ -558,7 +558,7 @@ xmlns:xlink="http://www.w3.org/1999/xlink">
             </g>
           </g>
           <g>
-            <g className="premium_E8"  mask="url(#mask-2)" fill="#00416B"  
+            <g class="premium_E8"  mask="url(#mask-2)" fill="#00416B"  
               transform="translate(30.366197, 262.115385) rotate(-180.000000) translate(-30.366197, -262.115385) translate(21.070423, 252.820513)">
               <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
               <path
@@ -567,7 +567,7 @@ xmlns:xlink="http://www.w3.org/1999/xlink">
             </g>
           </g>
           <g>
-            <g className="premium_F6"  mask="url(#mask-2)" fill="#00416B"  
+            <g class="premium_F6"  mask="url(#mask-2)" fill="#00416B"  
               transform="translate(9.295775, 304.252137) rotate(-180.000000) translate(-9.295775, -304.252137) translate(0.000000, 294.957265)">
               <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
               <path
@@ -576,7 +576,7 @@ xmlns:xlink="http://www.w3.org/1999/xlink">
             </g>
           </g>
           <g>
-            <g className="premium_D6"  mask="url(#mask-2)" fill="#00416B"  
+            <g class="premium_D6"  mask="url(#mask-2)" fill="#00416B"  
               transform="translate(51.436620, 304.252137) rotate(-180.000000) translate(-51.436620, -304.252137) translate(42.140845, 294.957265)">
               <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
               <path
@@ -585,7 +585,7 @@ xmlns:xlink="http://www.w3.org/1999/xlink">
             </g>
           </g>
           <g>
-            <g className="premium_E6"  mask="url(#mask-2)" fill="#00416B"  
+            <g class="premium_E6"  mask="url(#mask-2)" fill="#00416B"  
               transform="translate(30.366197, 304.252137) rotate(-180.000000) translate(-30.366197, -304.252137) translate(21.070423, 294.957265)">
               <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
               <path
@@ -594,7 +594,7 @@ xmlns:xlink="http://www.w3.org/1999/xlink">
             </g>
           </g>
           <g>
-            <g className="premium_D7"  mask="url(#mask-2)" fill="#00416B"  
+            <g class="premium_D7"  mask="url(#mask-2)" fill="#00416B"  
               transform="translate(51.436620, 283.183761) rotate(-180.000000) translate(-51.436620, -283.183761) translate(42.140845, 273.888889)">
               <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
               <path
@@ -603,7 +603,7 @@ xmlns:xlink="http://www.w3.org/1999/xlink">
             </g>
           </g>
           <g>
-            <g className="premium_E7"  mask="url(#mask-2)" fill="#00416B"  
+            <g class="premium_E7"  mask="url(#mask-2)" fill="#00416B"  
               transform="translate(30.366197, 283.183761) rotate(-180.000000) translate(-30.366197, -283.183761) translate(21.070423, 273.888889)">
               <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
               <path
@@ -612,7 +612,7 @@ xmlns:xlink="http://www.w3.org/1999/xlink">
             </g>
           </g>
           <g>
-            <g className="premium_F8"  mask="url(#mask-2)" fill="#00416B"  
+            <g class="premium_F8"  mask="url(#mask-2)" fill="#00416B"  
               transform="translate(9.295775, 262.115385) rotate(-180.000000) translate(-9.295775, -262.115385) translate(0.000000, 252.820513)">
               <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
               <path
@@ -621,7 +621,7 @@ xmlns:xlink="http://www.w3.org/1999/xlink">
             </g>
           </g>
           <g>
-            <g className="premium_F7"  mask="url(#mask-2)" fill="#00416B"  
+            <g class="premium_F7"  mask="url(#mask-2)" fill="#00416B"  
               transform="translate(9.295775, 283.183761) rotate(-180.000000) translate(-9.295775, -283.183761) translate(0.000000, 273.888889)">
               <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
               <path
@@ -636,64 +636,64 @@ xmlns:xlink="http://www.w3.org/1999/xlink">
             <use xlink:href="#path-5"></use>
           </mask>
           <g id="Duplicate-control"></g>
-          <g className="main_C28"  mask="url(#mask-2)" fill="#43A9C7"   >
+          <g class="main_C28"  mask="url(#mask-2)" fill="#43A9C7"   >
             <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
           </g>
-          <g className="main_A25"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(42.140845, 63.205128)"   >
+          <g class="main_A25"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(42.140845, 63.205128)"   >
               <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
           </g>
-          <g className="main_A26"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(42.140845, 42.136752)"   >
+          <g class="main_A26"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(42.140845, 42.136752)"   >
               <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
           </g>
-          <g className="main_A27"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(42.140845, 21.068376)"   >
+          <g class="main_A27"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(42.140845, 21.068376)"   >
               <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
           </g>
-          <g className="main_A28"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(42.140845, 0.000000)"   >
+          <g class="main_A28"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(42.140845, 0.000000)"   >
               <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
           </g>
-          <g className="main_B25"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(21.070423, 63.205128)"   >
+          <g class="main_B25"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(21.070423, 63.205128)"   >
               <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
           </g>
-          <g className="main_B26"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(21.070423, 42.136752)"   >
+          <g class="main_B26"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(21.070423, 42.136752)"   >
               <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
           </g>
-          <g className="main_B27"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(21.070423, 21.068376)"   >
+          <g class="main_B27"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(21.070423, 21.068376)"   >
               <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
           </g>
-          <g className="main_B28"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(21.070423, 0.000000)"   >
+          <g class="main_B28"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(21.070423, 0.000000)"   >
               <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
           </g>
-          <g className="main_C25"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(0.000000, 63.205128)"   >
+          <g class="main_C25"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(0.000000, 63.205128)"   >
               <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
           </g>
-          <g className="main_C26"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(0.000000, 42.136752)"   >
+          <g class="main_C26"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(0.000000, 42.136752)"   >
               <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
           </g>
-          <g className="main_C27"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(0.000000, 21.068376)"   >
+          <g class="main_C27"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(0.000000, 21.068376)"   >
               <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
           </g>
         </g>
         <g id="Group-3-Copy-3"
           transform="translate(241.702991, 114.791802) rotate(90.000000) translate(-241.702991, -114.791802) translate(209.702991, -43.208198)">
-          <g className="main_C24"  mask="url(#mask-2)" fill="#43A9C7"  >
+          <g class="main_C24"  mask="url(#mask-2)" fill="#43A9C7"  >
             <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
             
           </g>
-          <g className="premium_A8"  mask="url(#mask-2)" fill="#00416B" 
+          <g class="premium_A8"  mask="url(#mask-2)" fill="#00416B" 
             transform="translate(51.436620, 262.115385) rotate(-180.000000) translate(-51.436620, -262.115385) translate(42.140845, 252.820513)">
             <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
             <path
               d="M17.7333333,14.236415 C16.7823833,13.927665 16.1481,13.8994817 15.7240833,14.006515 C15.6959,13.5729983 15.4729667,12.9827317 14.8833333,12.1802983 C14.2937,12.9827317 14.0707667,13.5729983 14.0422667,14.006515 C13.6185667,13.8994817 12.9842833,13.927665 12.0333333,14.236415 C12.6198,15.041065 13.1160167,15.4346817 13.5226167,15.5955483 C13.2889167,15.962565 13.1201333,16.5702483 13.1217167,17.5636317 C14.0733,17.258365 14.6037167,16.9112983 14.8833333,16.5775317 C15.16295,16.9112983 15.6933667,17.258365 16.6446333,17.5636317 C16.6465333,16.5702483 16.47775,15.962565 16.24405,15.5955483 C16.6503333,15.4346817 17.1468667,15.041065 17.7333333,14.236415"
               id="star" fill="#FFFFFF"></path>
           </g>
-          <g className="premium_B8"  mask="url(#mask-2)" fill="#00416B" 
+          <g class="premium_B8"  mask="url(#mask-2)" fill="#00416B" 
             transform="translate(30.366197, 262.115385) rotate(-180.000000) translate(-30.366197, -262.115385) translate(21.070423, 252.820513)">
             <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
             <path
               d="M17.7333333,14.236415 C16.7823833,13.927665 16.1481,13.8994817 15.7240833,14.006515 C15.6959,13.5729983 15.4729667,12.9827317 14.8833333,12.1802983 C14.2937,12.9827317 14.0707667,13.5729983 14.0422667,14.006515 C13.6185667,13.8994817 12.9842833,13.927665 12.0333333,14.236415 C12.6198,15.041065 13.1160167,15.4346817 13.5226167,15.5955483 C13.2889167,15.962565 13.1201333,16.5702483 13.1217167,17.5636317 C14.0733,17.258365 14.6037167,16.9112983 14.8833333,16.5775317 C15.16295,16.9112983 15.6933667,17.258365 16.6446333,17.5636317 C16.6465333,16.5702483 16.47775,15.962565 16.24405,15.5955483 C16.6503333,15.4346817 17.1468667,15.041065 17.7333333,14.236415"
               id="star" fill="#FFFFFF"></path>
           </g>
-          <g className="premium_C8"  mask="url(#mask-2)" fill="#00416B" 
+          <g class="premium_C8"  mask="url(#mask-2)" fill="#00416B" 
             transform="translate(9.295775, 262.115385) rotate(-180.000000) translate(-9.295775, -262.115385) translate(0.000000, 252.820513)">
             <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
             <path
@@ -701,187 +701,187 @@ xmlns:xlink="http://www.w3.org/1999/xlink">
               id="star" fill="#FFFFFF"></path>
           </g>
           
-          <g className="premium_A6"  mask="url(#mask-2)" fill="#00416B" 
+          <g class="premium_A6"  mask="url(#mask-2)" fill="#00416B" 
             transform="translate(51.436620, 304.252137) rotate(-180.000000) translate(-51.436620, -304.252137) translate(42.140845, 294.957265)">
             <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
             <path
               d="M17.7333333,14.236415 C16.7823833,13.927665 16.1481,13.8994817 15.7240833,14.006515 C15.6959,13.5729983 15.4729667,12.9827317 14.8833333,12.1802983 C14.2937,12.9827317 14.0707667,13.5729983 14.0422667,14.006515 C13.6185667,13.8994817 12.9842833,13.927665 12.0333333,14.236415 C12.6198,15.041065 13.1160167,15.4346817 13.5226167,15.5955483 C13.2889167,15.962565 13.1201333,16.5702483 13.1217167,17.5636317 C14.0733,17.258365 14.6037167,16.9112983 14.8833333,16.5775317 C15.16295,16.9112983 15.6933667,17.258365 16.6446333,17.5636317 C16.6465333,16.5702483 16.47775,15.962565 16.24405,15.5955483 C16.6503333,15.4346817 17.1468667,15.041065 17.7333333,14.236415"
               id="star" fill="#FFFFFF"></path>
           </g>
-          <g className="main_A9"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(42.140845, 231.752137)" >
+          <g class="main_A9"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(42.140845, 231.752137)" >
             <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
             
           </g>
-          <g className="main_A10"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(42.140845, 210.683761)" >
+          <g class="main_A10"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(42.140845, 210.683761)" >
             <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
             
           </g>
-          <g className="main_A15"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(42.140845, 189.615385)" >
+          <g class="main_A15"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(42.140845, 189.615385)" >
             <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
             
           </g>
-          <g className="main_A17"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(42.140845, 147.478632)" >
+          <g class="main_A17"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(42.140845, 147.478632)" >
             <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
             
           </g>
-          <g className="main_A18"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(42.140845, 126.410256)" >
+          <g class="main_A18"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(42.140845, 126.410256)" >
             <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
             
           </g>
-          <g className="main_A19"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(42.140845, 105.341880)" >
+          <g class="main_A19"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(42.140845, 105.341880)" >
             <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
             
           </g>
-          <g className="main_A20"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(42.140845, 84.273504)" >
+          <g class="main_A20"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(42.140845, 84.273504)" >
             <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
             
           </g>
-          <g className="main_A21"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(42.140845, 63.205128)" >
+          <g class="main_A21"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(42.140845, 63.205128)" >
             <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
             
           </g>
-          <g className="main_A22"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(42.140845, 42.136752)" >
+          <g class="main_A22"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(42.140845, 42.136752)" >
             <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
             
           </g>
-          <g className="main_A23"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(42.140845, 21.068376)" >
+          <g class="main_A23"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(42.140845, 21.068376)" >
             <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
             
           </g>
-          <g className="main_A24"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(42.140845, 0.000000)" >
+          <g class="main_A24"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(42.140845, 0.000000)" >
             <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
             
           </g>
-          <g className="premium_B6"  mask="url(#mask-2)" fill="#00416B" 
+          <g class="premium_B6"  mask="url(#mask-2)" fill="#00416B" 
             transform="translate(30.366197, 304.252137) rotate(-180.000000) translate(-30.366197, -304.252137) translate(21.070423, 294.957265)">
             <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
             <path
               d="M17.7333333,14.236415 C16.7823833,13.927665 16.1481,13.8994817 15.7240833,14.006515 C15.6959,13.5729983 15.4729667,12.9827317 14.8833333,12.1802983 C14.2937,12.9827317 14.0707667,13.5729983 14.0422667,14.006515 C13.6185667,13.8994817 12.9842833,13.927665 12.0333333,14.236415 C12.6198,15.041065 13.1160167,15.4346817 13.5226167,15.5955483 C13.2889167,15.962565 13.1201333,16.5702483 13.1217167,17.5636317 C14.0733,17.258365 14.6037167,16.9112983 14.8833333,16.5775317 C15.16295,16.9112983 15.6933667,17.258365 16.6446333,17.5636317 C16.6465333,16.5702483 16.47775,15.962565 16.24405,15.5955483 C16.6503333,15.4346817 17.1468667,15.041065 17.7333333,14.236415"
               id="star" fill="#FFFFFF"></path>
           </g>
-          <g className="main_B9"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(21.070423, 231.752137)" >
+          <g class="main_B9"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(21.070423, 231.752137)" >
             <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
             
           </g>
-          <g className="main_B10"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(21.070423, 210.683761)" >
+          <g class="main_B10"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(21.070423, 210.683761)" >
             <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
             
           </g>
-          <g className="main_B15"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(21.070423, 189.615385)" >
+          <g class="main_B15"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(21.070423, 189.615385)" >
             <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
             
           </g>
-          <g className="main_B16"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(21.070423, 168.547009)" >
+          <g class="main_B16"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(21.070423, 168.547009)" >
             <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
             
           </g>
-          <g className="main_B17"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(21.070423, 147.478632)" >
+          <g class="main_B17"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(21.070423, 147.478632)" >
             <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
             
           </g>
-          <g className="main_B18"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(21.070423, 126.410256)" >
+          <g class="main_B18"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(21.070423, 126.410256)" >
             <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
             
           </g>
-          <g className="main_B19"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(21.070423, 105.341880)" >
+          <g class="main_B19"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(21.070423, 105.341880)" >
             <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
             
           </g>
-          <g className="main_B20"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(21.070423, 84.273504)" >
+          <g class="main_B20"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(21.070423, 84.273504)" >
             <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
             
           </g>
-          <g className="main_B21"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(21.070423, 63.205128)" >
+          <g class="main_B21"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(21.070423, 63.205128)" >
             <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
             
           </g>
-          <g className="main_B22"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(21.070423, 42.136752)" >
+          <g class="main_B22"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(21.070423, 42.136752)" >
             <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
             
           </g>
-          <g className="main_B23"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(21.070423, 21.068376)" >
+          <g class="main_B23"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(21.070423, 21.068376)" >
             <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
             
           </g>
-          <g className="main_B24"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(21.070423, 0.000000)" >
+          <g class="main_B24"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(21.070423, 0.000000)" >
             <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
             
           </g>
-          <g className="premium_A7"  mask="url(#mask-2)" fill="#00416B" 
+          <g class="premium_A7"  mask="url(#mask-2)" fill="#00416B" 
             transform="translate(51.436620, 283.183761) rotate(-180.000000) translate(-51.436620, -283.183761) translate(42.140845, 273.888889)">
             <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
             <path
               d="M17.7333333,14.236415 C16.7823833,13.927665 16.1481,13.8994817 15.7240833,14.006515 C15.6959,13.5729983 15.4729667,12.9827317 14.8833333,12.1802983 C14.2937,12.9827317 14.0707667,13.5729983 14.0422667,14.006515 C13.6185667,13.8994817 12.9842833,13.927665 12.0333333,14.236415 C12.6198,15.041065 13.1160167,15.4346817 13.5226167,15.5955483 C13.2889167,15.962565 13.1201333,16.5702483 13.1217167,17.5636317 C14.0733,17.258365 14.6037167,16.9112983 14.8833333,16.5775317 C15.16295,16.9112983 15.6933667,17.258365 16.6446333,17.5636317 C16.6465333,16.5702483 16.47775,15.962565 16.24405,15.5955483 C16.6503333,15.4346817 17.1468667,15.041065 17.7333333,14.236415"
               id="star" fill="#FFFFFF"></path>
           </g>
-          <g className="premium_B7"  mask="url(#mask-2)" fill="#00416B" 
+          <g class="premium_B7"  mask="url(#mask-2)" fill="#00416B" 
             transform="translate(30.366197, 283.183761) rotate(-180.000000) translate(-30.366197, -283.183761) translate(21.070423, 273.888889)">
             <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
             <path
               d="M17.7333333,14.236415 C16.7823833,13.927665 16.1481,13.8994817 15.7240833,14.006515 C15.6959,13.5729983 15.4729667,12.9827317 14.8833333,12.1802983 C14.2937,12.9827317 14.0707667,13.5729983 14.0422667,14.006515 C13.6185667,13.8994817 12.9842833,13.927665 12.0333333,14.236415 C12.6198,15.041065 13.1160167,15.4346817 13.5226167,15.5955483 C13.2889167,15.962565 13.1201333,16.5702483 13.1217167,17.5636317 C14.0733,17.258365 14.6037167,16.9112983 14.8833333,16.5775317 C15.16295,16.9112983 15.6933667,17.258365 16.6446333,17.5636317 C16.6465333,16.5702483 16.47775,15.962565 16.24405,15.5955483 C16.6503333,15.4346817 17.1468667,15.041065 17.7333333,14.236415"
               id="star" fill="#FFFFFF"></path>
           </g>
-          <g className="premium_C7"  mask="url(#mask-2)" fill="#00416B" 
+          <g class="premium_C7"  mask="url(#mask-2)" fill="#00416B" 
             transform="translate(9.295775, 283.183761) rotate(-180.000000) translate(-9.295775, -283.183761) translate(0.000000, 273.888889)">
             <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
             <path
               d="M17.7333333,14.236415 C16.7823833,13.927665 16.1481,13.8994817 15.7240833,14.006515 C15.6959,13.5729983 15.4729667,12.9827317 14.8833333,12.1802983 C14.2937,12.9827317 14.0707667,13.5729983 14.0422667,14.006515 C13.6185667,13.8994817 12.9842833,13.927665 12.0333333,14.236415 C12.6198,15.041065 13.1160167,15.4346817 13.5226167,15.5955483 C13.2889167,15.962565 13.1201333,16.5702483 13.1217167,17.5636317 C14.0733,17.258365 14.6037167,16.9112983 14.8833333,16.5775317 C15.16295,16.9112983 15.6933667,17.258365 16.6446333,17.5636317 C16.6465333,16.5702483 16.47775,15.962565 16.24405,15.5955483 C16.6503333,15.4346817 17.1468667,15.041065 17.7333333,14.236415"
               id="star" fill="#FFFFFF"></path>
           </g>
-          <g className="premium_C6"  mask="url(#mask-2)" fill="#00416B" 
+          <g class="premium_C6"  mask="url(#mask-2)" fill="#00416B" 
             transform="translate(9.295775, 304.252137) rotate(-180.000000) translate(-9.295775, -304.252137) translate(0.000000, 294.957265)">
             <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
             <path
               d="M17.7333333,14.236415 C16.7823833,13.927665 16.1481,13.8994817 15.7240833,14.006515 C15.6959,13.5729983 15.4729667,12.9827317 14.8833333,12.1802983 C14.2937,12.9827317 14.0707667,13.5729983 14.0422667,14.006515 C13.6185667,13.8994817 12.9842833,13.927665 12.0333333,14.236415 C12.6198,15.041065 13.1160167,15.4346817 13.5226167,15.5955483 C13.2889167,15.962565 13.1201333,16.5702483 13.1217167,17.5636317 C14.0733,17.258365 14.6037167,16.9112983 14.8833333,16.5775317 C15.16295,16.9112983 15.6933667,17.258365 16.6446333,17.5636317 C16.6465333,16.5702483 16.47775,15.962565 16.24405,15.5955483 C16.6503333,15.4346817 17.1468667,15.041065 17.7333333,14.236415"
               id="star" fill="#FFFFFF"></path>
           </g>
-          <g className="main_C9"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(0.000000, 231.752137)" >
+          <g class="main_C9"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(0.000000, 231.752137)" >
             <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
             
           </g>
-          <g className="main_C10"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(0.000000, 210.683761)" >
+          <g class="main_C10"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(0.000000, 210.683761)" >
             <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
             
           </g>
-          <g className="main_C15"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(0.000000, 189.615385)" >
+          <g class="main_C15"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(0.000000, 189.615385)" >
             <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
             
           </g>
-          <g className="main_C16"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(0.000000, 168.547009)" >
+          <g class="main_C16"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(0.000000, 168.547009)" >
             <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
             
           </g>
-          <g className="main_C17"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(0.000000, 147.478632)" >
+          <g class="main_C17"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(0.000000, 147.478632)" >
             <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
             
           </g>
-          <g className="main_C18"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(0.000000, 126.410256)" >
+          <g class="main_C18"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(0.000000, 126.410256)" >
             <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
             
           </g>
-          <g className="main_C19"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(0.000000, 105.341880)" >
+          <g class="main_C19"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(0.000000, 105.341880)" >
             <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
             
           </g>
-          <g className="main_C20"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(0.000000, 84.273504)" >
+          <g class="main_C20"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(0.000000, 84.273504)" >
             <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
             
           </g>
-          <g className="main_C21"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(0.000000, 63.205128)" >
+          <g class="main_C21"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(0.000000, 63.205128)" >
             <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
             
           </g>
-          <g className="main_C22"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(0.000000, 42.136752)" >
+          <g class="main_C22"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(0.000000, 42.136752)" >
             <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
             
           </g>
-          <g className="main_C23"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(0.000000, 21.068376)" >
+          <g class="main_C23"  mask="url(#mask-2)" fill="#43A9C7"  transform="translate(0.000000, 21.068376)" >
             <rect id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
             
           </g>
         </g>
       </g>
-      <g id="ico_premium1" 
+      <!-- <g id="ico_premium1" 
         transform="translate(129.500000, 255.500000) rotate(-90.000000) translate(-129.500000, -255.500000) translate(120.000000, 246.000000)">
         <rect fill="#00416B" id="bg" x="0" y="0" width="19" height="19" rx="4"></rect>
         <path
@@ -903,7 +903,7 @@ xmlns:xlink="http://www.w3.org/1999/xlink">
         id="MainCabin" fill="#3C3B3F" fill-rule="nonzero"></path>
       <g id="ico_first1" transform="translate(0.000000, 246.000000)" fill="#00416B">
         <rect id="Rectangle-1-Copy-2" x="0" y="0" width="19" height="19" rx="4"></rect>
-      </g>
+      </g> -->
     </g>
   </g>
 </g>
