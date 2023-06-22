@@ -1,3 +1,5 @@
+import Footer from './components/footer/Footer.component'
+import Navbar from './components/navbar/Navbar.component'
 import { inter } from './fonts'
 import './globals.css'
 
@@ -14,7 +16,11 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={inter.className}>{children}</body>
+      <body className={`h-screen w-screen flex flex-col bg-slate-600 px-3 p-1 ${inter.className}`}>
+        <Navbar/>
+        {children}
+        <Footer/>
+        </body>
     </html>
   )
 }

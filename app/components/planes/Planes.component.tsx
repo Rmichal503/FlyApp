@@ -18,7 +18,7 @@ const [seats, setSeats] = useState<Array<String[]>>([])
                 // const targetClass = parent instanceof HTMLElement ? parent.classList[0] : null;
                 // console.log(targetClass, e);
                 const targetClass = (e.target as HTMLElement)?.classList[0];
-                console.log(targetClass);
+                console.log(e);
                 if(targetClass === undefined) return
                 const seatTypeAndNumb = targetClass.replace('emb_svg__','').split('_')
                 console.log(seatTypeAndNumb);
