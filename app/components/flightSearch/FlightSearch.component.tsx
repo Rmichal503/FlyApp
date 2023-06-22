@@ -42,23 +42,6 @@ export default function FlightSearch(){
             <option value='USD'>Dolar</option>
         </select>
         <button onClick={fetchdata}>fetching</button>
-        <form action="/api/flyData" method="GET">
-        <label htmlFor="cars">Choose a car:</label>
-            <select id="cars" name="cars">
-            <option value="volvo">Volvo</option>
-            <option value="saab">Saab</option>
-            <option value="fiat">Fiat</option>
-            <option value="audi">Audi</option>
-            </select>
-        <label htmlFor="foot">Choose a car:</label>
-            <select id="foot" name="foot">
-            <option value="volvo2">Volvo2</option>
-            <option value="saab23">Saab23</option>
-            <option value="fiat76">Fiat76</option>
-            <option value="audi8">Audi8</option>
-            </select>
-            <button type="submit">wyślij</button>
-        </form>
         </>
     )
 }

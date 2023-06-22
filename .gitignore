@@ -34,3 +34,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+airbuscopy_unchange.svg
+boeingcopy_unchange.svg
+embcopy_unchange.svg
