@@ -33,10 +33,10 @@ export default function Home() {
   //   console.log(data);
   // }
   return (
-    <main className="flex rounded-2xl h-5/6 w-full grow flex-col items-center justify-between p-24 outline outline-slate-300 bg-slate-500 place-self-center">
+    <main className="flex rounded-2xl h-5/6 w-full grow flex-col items-center justify-between p-2 outline outline-slate-300 bg-slate-500 place-self-center">
       {/* {Object.keys(weather).length !=0?<Weather weatherProps={weather}/>:null} */}
       <FlightSearch/>
-      <Planes typeOfPlane={'emb'}/>
+      {/* <Planes typeOfPlane={'emb'}/> */}
 
     </main>
   )
