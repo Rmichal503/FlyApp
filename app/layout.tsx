@@ -1,5 +1,5 @@
 import Footer from './components/footer/Footer.component'
-import Navbar from './components/navbar/Navbar.component'
+import Navbar from './components/layout/Navbar.component'
 import { inter } from './fonts'
 import './globals.css'
 
@@ -7,6 +7,14 @@ import './globals.css'
 export const metadata = {
   title: 'FlyApp',
   description: 'Website mockup for booking airline tickets',
+  icons:{
+    icon: {
+      rel: 'icon',
+      type: 'image/svg',
+      sizes: 'any',
+      url: '/public/icon.svg',
+    }
+  }
 }
 
 export default function RootLayout({
