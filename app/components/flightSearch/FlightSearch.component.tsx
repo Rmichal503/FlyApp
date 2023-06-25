@@ -1,26 +1,29 @@
 'use client'
 
+import { TicketContext } from "@/app/context/ticket.context"
 import axios from "axios"
-import { useState } from "react"
+import { useContext, useState } from "react"
 
 export default function FlightSearch(){
+    const {setTickets} = useContext(TicketContext)
     const [origin,setOrigin] = useState('')
     const [destination,setdestination] = useState('')
     const [currency,setcurrency] = useState('')
     const fetchdata = async()=>{
-        const res = await (await axios.get(`/api/flyData/`,{
+        const {data} = await axios.get(`/api/flyData/`,{
             params:{
                 origin:origin,
                 destination:destination,
                 currency:currency
             }
-        })).data
-        console.log(res);
+        })
+        // console.log(data);
+        setTickets(data.flights)
     }
 
     return(
-        <div className="flex w-full h-14 bg-slate-300 justify-around rounded-2xl items-center">
-        <select className="rounded-2xl h-4/5 w-1/5 text-center hover:bg-slate-200 focus:bg-slate-200 transition-colors focus:outline-slate-50" onChange={(e)=>{
+        <div className="flex w-full h-full bg-slate-300 justify-around rounded-2xl p-2">
+        <select className="rounded-2xl h-14 w-1/4 text-center hover:bg-slate-200 focus:bg-slate-200 transition-colors focus:outline-slate-50" onChange={(e)=>{
             setOrigin(e.target.value)
             console.log(e.target.value);
         }}>
@@ -28,7 +31,7 @@ export default function FlightSearch(){
             <option value='WAW'>Warszawa</option>
             <option value='LBN'>Lublin</option>
         </select>
-        <select className="rounded-2xl h-4/5 w-1/5 text-center hover:bg-slate-200 focus:bg-slate-200 transition-colors focus:outline-slate-50" onChange={(e)=>{
+        <select className="rounded-2xl h-14 w-1/4 text-center hover:bg-slate-200 focus:bg-slate-200 transition-colors focus:outline-slate-50" onChange={(e)=>{
             setdestination(e.target.value)
             console.log(e.target.value);
         }}>
@@ -36,7 +39,7 @@ export default function FlightSearch(){
             <option value='JFK'>Nowy Jork</option>
             <option value='CDG'>Paryż</option>
         </select>
-        <select className="rounded-2xl h-4/5 w-1/5 text-center hover:bg-slate-200 focus:bg-slate-200 transition-colors focus:outline-slate-50" onChange={(e)=>{
+        <select className="rounded-2xl h-14 w-1/4 text-center hover:bg-slate-200 focus:bg-slate-200 transition-colors focus:outline-slate-50" onChange={(e)=>{
             setcurrency(e.target.value)
             console.log(e.target.value);
         }}>

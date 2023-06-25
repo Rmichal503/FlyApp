@@ -60,5 +60,6 @@ export async function GET(request: Request) {
     }
   );
 
-  return NextResponse.json({ data });
+    const flights = data.data
+  return NextResponse.json({flights});
 }
