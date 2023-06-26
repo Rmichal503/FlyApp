@@ -18,7 +18,6 @@ interface WeatherState{
 
 
 export default function Home() {
-  const {tickets} = useContext(TicketContext)
   // const [weather,setWeather] = useState<WeatherState>({} as WeatherState)
   useEffect(()=>{
     const fetchLatLon = async() =>{
@@ -42,17 +41,17 @@ export default function Home() {
   //   const {data} = res
   //   console.log(data);
   // }
-  if(tickets.length !== 0){
-    console.log(tickets);
-  }
+  // if(tickets.length !== 0){
+  //   console.log(tickets);
+  // }
   return (
-    <main className="flex h-5/6 w-full grow items-center justify-between p-2 place-self-center">
+    <main className="flex h-5/6 w-full grow items-center justify-between p-2 place-self-center 2xl-min:px-80">
       {/* {Object.keys(weather).length !=0?<Weather weatherProps={weather}/>:null} */}
       <FlightSearch/>
-      {tickets.map((el)=>{
+      {/* {tickets.map((el)=>{
         console.log(el);
         return (<Ticket key={`${el.value}${el.depart_date}`} price={el.value} depart_date={el.depart_date}/>)
-      })}
+      })} */}
       {/* <Image className='-m-5 z-10'src={'/planehero.jpg'} alt='plane image hero' width={700} height={'700'}/> */}
       <Blob/>
       {/* <Planes typeOfPlane={'emb'}/> */}

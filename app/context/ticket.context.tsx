@@ -1,6 +1,6 @@
 'use client'
 import { createContext, Dispatch, SetStateAction, useState } from "react";
-interface ticket{
+export interface ticket{
     value: number,
     trip_class: number,
     show_to_affiliates: boolean,
