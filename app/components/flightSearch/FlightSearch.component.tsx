@@ -27,7 +27,7 @@ export default function FlightSearch(){
 
     return(
         <div className="flex flex-col w-full h-full bg-slate-300 justify-start rounded-2xl p-2">
-        <div className="flex justify-around">
+        <div className="flex justify-around mb-2">
             <select className="rounded-2xl h-14 w-1/4 text-center hover:bg-slate-200 focus:bg-slate-200 transition-colors focus:outline-slate-50" onChange={(e)=>{
                 setOrigin(e.target.value)
                 console.log(e.target.value);
@@ -57,6 +57,7 @@ export default function FlightSearch(){
             </button>
         </div>
         <div className="flex flex-col items-center">
+            <div className="my-2 h-px border-t-0 bg-transparent bg-gradient-to-r from-transparent via-black to-transparent opacity-25"></div>
             {searchtickets.length !== 0 && searchtickets.map(el=>{
                 return (<Ticket key={`${el.value}${el.depart_date}`} price={el.value} depart_date={el.depart_date}/>)
             })}

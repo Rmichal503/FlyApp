@@ -2,7 +2,7 @@ import { TicketProvider } from "./context/ticket.context";
 import Link from "next/link";
 import Image from "next/image";
 import Footer from "./components/footer/Footer.component";
-import Navbar from "./components/layout/Navbar.component";
+import Navbar from "./components/navbar/Navbar.component";
 import { inter } from "./fonts";
 import "./globals.css";
 
@@ -27,7 +27,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`h-screen w-screen flex flex-col bg-slate-600 px-3 font-SC`}
+        className={`h-screen w-screen flex flex-col bg-background px-3 font-SC`}
       >
         <Navbar />
         <TicketProvider>{children}</TicketProvider>
